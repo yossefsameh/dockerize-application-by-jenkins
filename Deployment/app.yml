@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: yossefsameh/my-app:13
+        image: yossefsameh/my-app:${BUILD_NUMBER}
         ports:
           - name: my-port
             containerPort: 5000
