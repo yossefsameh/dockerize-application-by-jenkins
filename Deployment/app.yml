@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: yossefsameh/my-app:12
+        image: yossefsameh/my-app:13
         ports:
           - name: my-port
             containerPort: 5000
