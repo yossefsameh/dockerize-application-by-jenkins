@@ -1,7 +1,7 @@
 ## in the last repo we have finished deploying jenkins in private gke cluster
 (https://github.com/yossefsameh/deploy-jenkins-by-private-gke-in-terrafirm/tree/master)
 
-## hello world app deployment
+## app deployment
 
   1- create docker file to install flask and other requirments in python base image
   
