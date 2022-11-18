@@ -16,7 +16,7 @@
 
   1- build and push image to my dockerhub repo
   
-  2- use service aaound credentials to be able to access cluster
+  2- use service accound credentials (with container.admin role) to be able to access cluster
   
   3- deploy app
   
